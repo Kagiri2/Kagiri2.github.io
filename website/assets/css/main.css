@@ -926,7 +926,7 @@ input, select, textarea {
 				}
 
 				ul.icons li a:active {
-					background-color: rgba(255, 255, 255, 0.175);
+					background-color: rgba(26, 208, 205, 0.175);
 				}
 
 /* Table */
@@ -1823,3 +1823,4 @@ body {
 	background-color: #FFF;
 	color: #122;
   }
+
